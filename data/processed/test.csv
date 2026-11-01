@@ -1,0 +1,239 @@
+kode_kabkota,nama_kabkota,provinsi,jenis,tahun,rls,ahh_l,ahh_p,ppk_l,ppk_p,ikk,p0
+3101,Kab. Kepulauan Seribu,DKI Jakarta,Kabupaten,2023,9.03,67.68,71.63,18385.0,13041.0,123.98,13.13
+3101,Kab. Kepulauan Seribu,DKI Jakarta,Kabupaten,2024,9.26,67.85,71.8,19169.0,13593.0,122.21,13.03
+3171,Kota Jakarta Selatan,DKI Jakarta,Kota,2023,11.75,73.03,76.69,28976.0,23967.0,112.96,3.1
+3171,Kota Jakarta Selatan,DKI Jakarta,Kota,2024,11.95,73.38,76.86,29695.0,24545.0,112.22,3.03
+3172,Kota Jakarta Timur,DKI Jakarta,Kota,2023,11.88,73.38,77.01,23631.0,18271.0,112.14,4.2
+3172,Kota Jakarta Timur,DKI Jakarta,Kota,2024,11.99,73.73,77.11,24308.0,18721.0,109.6,4.09
+3173,Kota Jakarta Pusat,DKI Jakarta,Kota,2023,11.54,73.06,76.71,20619.0,17510.0,120.41,4.68
+3173,Kota Jakarta Pusat,DKI Jakarta,Kota,2024,11.61,73.65,76.94,21258.0,17933.0,119.14,4.63
+3174,Kota Jakarta Barat,DKI Jakarta,Kota,2023,11.23,72.39,76.09,25138.0,20469.0,115.48,4.09
+3174,Kota Jakarta Barat,DKI Jakarta,Kota,2024,11.24,72.55,76.28,25835.0,20873.0,113.41,3.94
+3175,Kota Jakarta Utara,DKI Jakarta,Kota,2023,10.84,71.8,75.55,27691.0,19126.0,115.82,6.78
+3175,Kota Jakarta Utara,DKI Jakarta,Kota,2024,10.85,71.97,76.04,28287.0,19511.0,112.64,6.44
+3201,Kab. Bogor,Jawa Barat,Kabupaten,2023,8.37,69.97,73.96,15974.0,8962.0,112.95,7.27
+3201,Kab. Bogor,Jawa Barat,Kabupaten,2024,8.39,70.2,74.21,16620.0,9330.0,115.39,7.05
+3202,Kab. Sukabumi,Jawa Barat,Kabupaten,2023,7.33,69.89,73.88,13917.0,7163.0,101.91,7.01
+3202,Kab. Sukabumi,Jawa Barat,Kabupaten,2024,7.34,70.11,74.11,14396.0,7405.0,103.12,6.87
+3203,Kab. Cianjur,Jawa Barat,Kabupaten,2023,7.22,68.87,72.81,12257.0,5401.0,105.77,10.22
+3203,Kab. Cianjur,Jawa Barat,Kabupaten,2024,7.33,69.03,72.98,12936.0,5570.0,103.18,10.14
+3204,Kab. Bandung,Jawa Barat,Kabupaten,2023,9.1,72.5,76.2,14682.0,9516.0,110.11,6.4
+3204,Kab. Bandung,Jawa Barat,Kabupaten,2024,9.15,72.73,76.44,15169.0,9828.0,111.3,6.19
+3205,Kab. Garut,Jawa Barat,Kabupaten,2023,7.84,70.12,74.12,12306.0,4753.0,96.47,9.77
+3205,Kab. Garut,Jawa Barat,Kabupaten,2024,7.85,70.32,74.33,12981.0,4970.0,102.23,9.68
+3206,Kab. Tasikmalaya,Jawa Barat,Kabupaten,2023,7.96,68.27,72.21,12748.0,5746.0,99.72,10.28
+3206,Kab. Tasikmalaya,Jawa Barat,Kabupaten,2024,7.97,68.47,72.41,13439.0,5990.0,98.5,10.23
+3207,Kab. Ciamis,Jawa Barat,Kabupaten,2023,8.09,70.61,74.63,14958.0,6688.0,97.56,7.42
+3207,Kab. Ciamis,Jawa Barat,Kabupaten,2024,8.1,70.9,74.94,15542.0,6978.0,99.55,7.39
+3208,Kab. Kuningan,Jawa Barat,Kabupaten,2023,7.89,72.52,76.22,14794.0,7042.0,98.45,12.12
+3208,Kab. Kuningan,Jawa Barat,Kabupaten,2024,7.9,72.72,76.42,15415.0,7363.0,98.27,11.88
+3209,Kab. Cirebon,Jawa Barat,Kabupaten,2023,7.64,70.79,74.83,16736.0,5905.0,103.86,11.2
+3209,Kab. Cirebon,Jawa Barat,Kabupaten,2024,7.65,71.03,75.15,17328.0,6189.0,104.51,11.0
+3210,Kab. Majalengka,Jawa Barat,Kabupaten,2023,7.52,69.12,73.08,14978.0,6754.0,98.7,11.21
+3210,Kab. Majalengka,Jawa Barat,Kabupaten,2024,7.53,69.37,73.34,15734.0,7050.0,102.13,10.82
+3211,Kab. Sumedang,Jawa Barat,Kabupaten,2023,8.73,71.13,75.35,14749.0,10592.0,101.97,9.36
+3211,Kab. Sumedang,Jawa Barat,Kabupaten,2024,8.74,71.29,75.7,15361.0,11011.0,103.47,9.1
+3212,Kab. Indramayu,Jawa Barat,Kabupaten,2023,6.94,70.5,74.52,15603.0,7758.0,107.03,12.13
+3212,Kab. Indramayu,Jawa Barat,Kabupaten,2024,6.95,70.8,74.83,16256.0,8030.0,104.92,11.93
+3213,Kab. Subang,Jawa Barat,Kabupaten,2023,7.45,71.16,75.43,15779.0,9042.0,105.88,9.52
+3213,Kab. Subang,Jawa Barat,Kabupaten,2024,7.46,71.34,75.8,16136.0,9439.0,105.33,9.49
+3214,Kab. Purwakarta,Jawa Barat,Kabupaten,2023,8.13,69.79,73.78,19087.0,8187.0,104.97,8.46
+3214,Kab. Purwakarta,Jawa Barat,Kabupaten,2024,8.14,70.04,74.04,19800.0,8500.0,104.89,8.41
+3215,Kab. Karawang,Jawa Barat,Kabupaten,2023,8.04,70.93,74.97,16706.0,9929.0,106.76,7.87
+3215,Kab. Karawang,Jawa Barat,Kabupaten,2024,8.05,71.1,75.29,17500.0,10357.0,108.74,7.86
+3216,Kab. Bekasi,Jawa Barat,Kabupaten,2023,9.57,72.53,76.23,17956.0,8862.0,105.47,4.93
+3216,Kab. Bekasi,Jawa Barat,Kabupaten,2024,9.76,72.75,76.55,18442.0,9155.0,108.56,4.8
+3217,Kab. Bandung Barat,Jawa Barat,Kabupaten,2023,8.23,71.07,75.23,14242.0,4373.0,108.86,10.52
+3217,Kab. Bandung Barat,Jawa Barat,Kabupaten,2024,8.24,71.23,75.56,14522.0,4480.0,111.02,10.49
+3218,Kab. Pangandaran,Jawa Barat,Kabupaten,2023,8.04,70.22,74.22,13293.0,7393.0,92.92,8.98
+3218,Kab. Pangandaran,Jawa Barat,Kabupaten,2024,8.1,70.45,74.46,13704.0,7638.0,92.92,8.75
+3271,Kota Bogor,Jawa Barat,Kota,2023,10.64,72.69,76.37,18739.0,10385.0,112.89,6.67
+3271,Kota Bogor,Jawa Barat,Kota,2024,10.71,72.89,76.69,19683.0,10660.0,112.47,6.53
+3272,Kota Sukabumi,Jawa Barat,Kota,2023,10.37,71.08,75.25,16399.0,10809.0,102.24,7.5
+3272,Kota Sukabumi,Jawa Barat,Kota,2024,10.38,71.23,75.57,17016.0,11212.0,102.8,7.2
+3273,Kota Bandung,Jawa Barat,Kota,2023,11.06,73.3,76.93,24304.0,17109.0,112.0,3.96
+3273,Kota Bandung,Jawa Barat,Kota,2024,11.07,73.5,77.24,25068.0,17615.0,117.19,3.87
+3274,Kota Cirebon,Jawa Barat,Kota,2023,10.37,71.06,75.2,16432.0,12025.0,100.4,9.16
+3274,Kota Cirebon,Jawa Barat,Kota,2024,10.53,71.22,75.55,16896.0,12320.0,105.18,9.02
+3275,Kota Bekasi,Jawa Barat,Kota,2023,11.66,74.1,77.45,22892.0,15095.0,105.15,4.1
+3275,Kota Bekasi,Jawa Barat,Kota,2024,11.79,74.29,77.75,23290.0,15380.0,106.59,4.01
+3276,Kota Depok,Jawa Barat,Kota,2023,11.58,73.49,77.11,23370.0,14822.0,111.21,2.38
+3276,Kota Depok,Jawa Barat,Kota,2024,11.59,73.68,77.41,23992.0,15100.0,109.97,2.34
+3277,Kota Cimahi,Jawa Barat,Kota,2023,11.39,73.05,76.7,17551.0,10931.0,107.93,4.66
+3277,Kota Cimahi,Jawa Barat,Kota,2024,11.52,73.23,77.01,18102.0,11253.0,112.94,4.39
+3278,Kota Tasikmalaya,Jawa Barat,Kota,2023,9.54,70.95,74.99,14570.0,8485.0,103.29,11.53
+3278,Kota Tasikmalaya,Jawa Barat,Kota,2024,9.63,71.11,75.32,15066.0,8725.0,103.86,11.1
+3279,Kota Banjar,Jawa Barat,Kota,2023,8.79,69.85,73.84,16864.0,7844.0,99.28,6.14
+3279,Kota Banjar,Jawa Barat,Kota,2024,8.83,70.08,74.08,17528.0,8176.0,98.04,5.85
+3301,Kab. Cilacap,Jawa Tengah,Kabupaten,2023,7.39,72.48,76.2,16507.0,7781.0,98.21,10.99
+3301,Kab. Cilacap,Jawa Tengah,Kabupaten,2024,7.4,72.79,76.58,17148.0,8011.0,101.76,10.68
+3302,Kab. Banyumas,Jawa Tengah,Kabupaten,2023,7.87,72.2,75.94,17955.0,8583.0,97.2,12.53
+3302,Kab. Banyumas,Jawa Tengah,Kabupaten,2024,7.91,72.56,76.32,18616.0,8892.0,100.9,11.95
+3303,Kab. Purbalingga,Jawa Tengah,Kabupaten,2023,7.34,71.57,75.36,14502.0,10231.0,96.36,14.99
+3303,Kab. Purbalingga,Jawa Tengah,Kabupaten,2024,7.36,71.78,75.86,15015.0,10573.0,99.9,14.18
+3304,Kab. Banjarnegara,Jawa Tengah,Kabupaten,2023,6.86,72.71,76.41,11601.0,9077.0,98.54,14.9
+3304,Kab. Banjarnegara,Jawa Tengah,Kabupaten,2024,6.87,72.98,76.77,11970.0,9394.0,100.41,14.71
+3305,Kab. Kebumen,Jawa Tengah,Kabupaten,2023,7.86,72.05,75.8,12675.0,8934.0,96.33,16.34
+3305,Kab. Kebumen,Jawa Tengah,Kabupaten,2024,7.87,72.45,76.18,13291.0,9324.0,98.3,15.71
+3306,Kab. Purworejo,Jawa Tengah,Kabupaten,2023,8.46,73.47,77.11,12368.0,10667.0,96.39,11.33
+3306,Kab. Purworejo,Jawa Tengah,Kabupaten,2024,8.65,74.03,77.49,12917.0,11111.0,99.38,10.87
+3307,Kab. Wonosobo,Jawa Tengah,Kabupaten,2023,6.89,70.21,74.19,15742.0,10124.0,97.98,15.58
+3307,Kab. Wonosobo,Jawa Tengah,Kabupaten,2024,6.9,70.44,74.45,16302.0,10464.0,99.74,15.28
+3308,Kab. Magelang,Jawa Tengah,Kabupaten,2023,7.82,72.45,76.15,14715.0,9481.0,97.34,10.96
+3308,Kab. Magelang,Jawa Tengah,Kabupaten,2024,7.83,72.76,76.55,15371.0,9791.0,99.28,10.83
+3309,Kab. Boyolali,Jawa Tengah,Kabupaten,2023,8.09,74.39,78.14,18396.0,13172.0,98.6,9.81
+3309,Kab. Boyolali,Jawa Tengah,Kabupaten,2024,8.17,74.75,78.55,19084.0,13648.0,100.85,9.63
+3310,Kab. Klaten,Jawa Tengah,Kabupaten,2023,9.27,75.22,78.99,14301.0,12426.0,97.74,12.28
+3310,Kab. Klaten,Jawa Tengah,Kabupaten,2024,9.29,75.58,79.33,14916.0,12935.0,100.31,12.04
+3311,Kab. Sukoharjo,Jawa Tengah,Kabupaten,2023,9.84,76.14,79.88,13349.0,11658.0,99.59,7.58
+3311,Kab. Sukoharjo,Jawa Tengah,Kabupaten,2024,10.01,76.37,80.38,13837.0,12061.0,100.45,7.47
+3312,Kab. Wonogiri,Jawa Tengah,Kabupaten,2023,7.67,74.72,78.48,13997.0,9158.0,97.21,10.94
+3312,Kab. Wonogiri,Jawa Tengah,Kabupaten,2024,7.68,74.95,78.84,14464.0,9460.0,100.13,10.71
+3313,Kab. Karanganyar,Jawa Tengah,Kabupaten,2023,9.02,75.94,79.72,12876.0,11755.0,99.41,9.79
+3313,Kab. Karanganyar,Jawa Tengah,Kabupaten,2024,9.26,76.25,80.07,13384.0,12225.0,103.37,9.59
+3314,Kab. Sragen,Jawa Tengah,Kabupaten,2023,7.87,74.14,77.89,18109.0,11891.0,97.77,12.87
+3314,Kab. Sragen,Jawa Tengah,Kabupaten,2024,7.88,74.45,78.3,18731.0,12316.0,101.67,12.41
+3315,Kab. Grobogan,Jawa Tengah,Kabupaten,2023,7.28,73.3,76.95,16422.0,8006.0,101.87,11.72
+3315,Kab. Grobogan,Jawa Tengah,Kabupaten,2024,7.29,73.59,77.35,17099.0,8330.0,102.22,11.43
+3316,Kab. Blora,Jawa Tengah,Kabupaten,2023,7.08,72.95,76.64,15400.0,6464.0,101.25,11.49
+3316,Kab. Blora,Jawa Tengah,Kabupaten,2024,7.26,73.26,77.03,15952.0,6721.0,103.85,11.42
+3317,Kab. Rembang,Jawa Tengah,Kabupaten,2023,7.72,73.02,76.69,16621.0,7865.0,101.98,14.17
+3317,Kab. Rembang,Jawa Tengah,Kabupaten,2024,7.73,73.29,77.1,17238.0,8041.0,102.46,14.02
+3318,Kab. Pati,Jawa Tengah,Kabupaten,2023,7.8,74.55,78.31,15800.0,10436.0,103.48,9.31
+3318,Kab. Pati,Jawa Tengah,Kabupaten,2024,7.82,74.84,78.69,16428.0,10876.0,104.52,9.17
+3319,Kab. Kudus,Jawa Tengah,Kabupaten,2023,9.34,75.02,78.78,16212.0,11227.0,103.82,7.24
+3319,Kab. Kudus,Jawa Tengah,Kabupaten,2024,9.35,75.33,79.17,16796.0,11628.0,104.64,7.23
+3320,Kab. Jepara,Jawa Tengah,Kabupaten,2023,8.26,74.24,77.99,15570.0,9084.0,102.79,6.61
+3320,Kab. Jepara,Jawa Tengah,Kabupaten,2024,8.27,74.54,78.39,16141.0,9432.0,104.76,6.09
+3321,Kab. Demak,Jawa Tengah,Kabupaten,2023,8.27,73.77,77.48,16067.0,9463.0,102.86,12.01
+3321,Kab. Demak,Jawa Tengah,Kabupaten,2024,8.28,74.07,77.88,16767.0,9832.0,104.26,11.89
+3322,Kab. Semarang,Jawa Tengah,Kabupaten,2023,8.07,74.12,77.86,13942.0,12619.0,105.4,7.17
+3322,Kab. Semarang,Jawa Tengah,Kabupaten,2024,8.16,74.41,78.26,14473.0,13053.0,105.78,6.96
+3323,Kab. Temanggung,Jawa Tengah,Kabupaten,2023,7.5,73.95,77.69,11924.0,9372.0,98.4,9.26
+3323,Kab. Temanggung,Jawa Tengah,Kabupaten,2024,7.53,74.24,78.08,12389.0,9783.0,99.95,8.67
+3324,Kab. Kendal,Jawa Tengah,Kabupaten,2023,7.73,72.84,76.51,16368.0,11554.0,100.18,9.39
+3324,Kab. Kendal,Jawa Tengah,Kabupaten,2024,7.74,73.14,76.9,17006.0,12014.0,102.28,9.35
+3325,Kab. Batang,Jawa Tengah,Kabupaten,2023,7.07,73.12,76.77,14109.0,9011.0,101.68,8.92
+3325,Kab. Batang,Jawa Tengah,Kabupaten,2024,7.08,73.42,77.17,14703.0,9422.0,101.8,8.73
+3326,Kab. Pekalongan,Jawa Tengah,Kabupaten,2023,7.47,72.11,75.84,15586.0,9416.0,100.88,9.67
+3326,Kab. Pekalongan,Jawa Tengah,Kabupaten,2024,7.48,72.4,76.24,16245.0,9791.0,101.29,8.95
+3327,Kab. Pemalang,Jawa Tengah,Kabupaten,2023,6.55,72.09,75.82,14037.0,6700.0,102.58,15.03
+3327,Kab. Pemalang,Jawa Tengah,Kabupaten,2024,6.56,72.38,76.21,14657.0,6990.0,104.1,14.92
+3328,Kab. Tegal,Jawa Tengah,Kabupaten,2023,7.34,70.05,74.05,15602.0,8138.0,101.19,7.3
+3328,Kab. Tegal,Jawa Tengah,Kabupaten,2024,7.36,70.2,74.21,16235.0,8463.0,101.18,6.81
+3329,Kab. Brebes,Jawa Tengah,Kabupaten,2023,6.4,68.03,71.98,16047.0,7607.0,102.18,15.78
+3329,Kab. Brebes,Jawa Tengah,Kabupaten,2024,6.41,68.37,72.31,16604.0,7870.0,104.48,15.6
+3371,Kota Magelang,Jawa Tengah,Kota,2023,11.2,75.37,79.14,14896.0,12584.0,98.63,6.11
+3371,Kota Magelang,Jawa Tengah,Kota,2024,11.43,75.7,79.53,15412.0,13024.0,98.85,5.94
+3372,Kota Surakarta,Jawa Tengah,Kota,2023,11.0,75.77,79.55,16265.0,14471.0,99.69,8.44
+3372,Kota Surakarta,Jawa Tengah,Kota,2024,11.25,76.1,79.94,16713.0,14839.0,103.08,8.31
+3373,Kota Salatiga,Jawa Tengah,Kota,2023,11.24,76.07,79.85,20891.0,16036.0,102.59,4.66
+3373,Kota Salatiga,Jawa Tengah,Kota,2024,11.48,76.4,80.25,21468.0,16473.0,104.58,4.57
+3374,Kota Semarang,Jawa Tengah,Kota,2023,10.81,76.04,79.83,17549.0,15238.0,102.94,4.23
+3374,Kota Semarang,Jawa Tengah,Kota,2024,11.05,76.37,80.22,18175.0,15750.0,105.04,4.03
+3375,Kota Pekalongan,Jawa Tengah,Kota,2023,9.29,72.86,76.53,18100.0,13290.0,101.54,6.81
+3375,Kota Pekalongan,Jawa Tengah,Kota,2024,9.34,73.19,76.93,18707.0,13740.0,103.37,6.71
+3376,Kota Tegal,Jawa Tengah,Kota,2023,9.24,72.9,76.57,19386.0,12801.0,103.15,7.68
+3376,Kota Tegal,Jawa Tengah,Kota,2024,9.28,73.23,76.97,19794.0,13102.0,104.5,7.64
+3401,Kab. Kulon Progo,DI Yogyakarta,Kabupaten,2023,9.18,73.57,77.21,13836.0,9997.0,102.08,15.64
+3401,Kab. Kulon Progo,DI Yogyakarta,Kabupaten,2024,9.2,73.87,77.57,14192.0,10235.0,102.56,15.62
+3402,Kab. Bantul,DI Yogyakarta,Kabupaten,2023,9.79,72.13,75.9,19227.0,15671.0,104.06,11.96
+3402,Kab. Bantul,DI Yogyakarta,Kabupaten,2024,9.81,72.43,76.28,19554.0,15964.0,105.13,11.66
+3403,Kab. Gunungkidul,DI Yogyakarta,Kabupaten,2023,7.32,72.49,76.19,16645.0,6889.0,108.14,15.6
+3403,Kab. Gunungkidul,DI Yogyakarta,Kabupaten,2024,7.35,72.78,76.57,17319.0,7286.0,107.97,15.18
+3404,Kab. Sleman,DI Yogyakarta,Kabupaten,2023,11.01,73.35,76.99,18353.0,15762.0,106.26,7.52
+3404,Kab. Sleman,DI Yogyakarta,Kabupaten,2024,11.33,73.64,77.25,19090.0,16361.0,106.63,7.46
+3471,Kota Yogyakarta,DI Yogyakarta,Kota,2023,12.11,73.18,76.83,20163.0,19651.0,101.87,6.49
+3471,Kota Yogyakarta,DI Yogyakarta,Kota,2024,12.12,73.33,76.99,20875.0,20304.0,102.25,6.26
+3501,Kab. Pacitan,Jawa Timur,Kabupaten,2023,7.88,70.89,74.93,14910.0,6400.0,93.9,13.65
+3501,Kab. Pacitan,Jawa Timur,Kabupaten,2024,7.9,71.03,75.15,15544.0,6686.0,91.07,13.08
+3502,Kab. Ponorogo,Jawa Timur,Kabupaten,2023,7.78,71.36,75.84,14043.0,10060.0,99.0,9.53
+3502,Kab. Ponorogo,Jawa Timur,Kabupaten,2024,7.8,71.52,76.11,14568.0,10467.0,97.17,9.11
+3503,Kab. Trenggalek,Jawa Timur,Kabupaten,2023,7.9,72.9,76.57,15784.0,10054.0,98.54,10.63
+3503,Kab. Trenggalek,Jawa Timur,Kabupaten,2024,7.92,73.04,76.72,16347.0,10434.0,97.25,10.5
+3504,Kab. Tulungagung,Jawa Timur,Kabupaten,2023,8.66,73.18,76.83,14457.0,10969.0,96.37,6.53
+3504,Kab. Tulungagung,Jawa Timur,Kabupaten,2024,8.68,73.34,77.03,14945.0,11337.0,93.25,6.28
+3505,Kab. Blitar,Jawa Timur,Kabupaten,2023,7.83,72.59,76.28,16778.0,10113.0,93.19,8.69
+3505,Kab. Blitar,Jawa Timur,Kabupaten,2024,7.87,72.76,76.46,17526.0,10559.0,90.03,8.16
+3506,Kab. Kediri,Jawa Timur,Kabupaten,2023,8.24,71.18,75.47,17184.0,11045.0,96.45,10.72
+3506,Kab. Kediri,Jawa Timur,Kabupaten,2024,8.26,71.31,75.74,17798.0,11446.0,91.51,9.95
+3507,Kab. Malang,Jawa Timur,Kabupaten,2023,7.75,71.18,75.45,16007.0,7653.0,102.83,9.45
+3507,Kab. Malang,Jawa Timur,Kabupaten,2024,7.8,71.3,75.71,16588.0,7925.0,98.86,8.98
+3508,Kab. Lumajang,Jawa Timur,Kabupaten,2023,7.14,69.03,72.98,14928.0,7853.0,94.31,8.93
+3508,Kab. Lumajang,Jawa Timur,Kabupaten,2024,7.27,69.21,73.17,15558.0,8139.0,91.96,8.65
+3509,Kab. Jember,Jawa Timur,Kabupaten,2023,6.52,68.11,72.05,15789.0,6704.0,95.8,9.51
+3509,Kab. Jember,Jawa Timur,Kabupaten,2024,6.54,68.28,72.22,16428.0,7019.0,93.28,9.01
+3510,Kab. Banyuwangi,Jawa Timur,Kabupaten,2023,7.76,69.44,73.41,20089.0,8439.0,99.13,7.34
+3510,Kab. Banyuwangi,Jawa Timur,Kabupaten,2024,7.78,69.63,73.6,20859.0,8755.0,96.67,6.54
+3511,Kab. Bondowoso,Jawa Timur,Kabupaten,2023,6.36,65.66,69.64,15511.0,10033.0,94.58,13.34
+3511,Kab. Bondowoso,Jawa Timur,Kabupaten,2024,6.53,65.82,69.8,16101.0,10408.0,93.02,12.6
+3512,Kab. Situbondo,Jawa Timur,Kabupaten,2023,6.9,68.01,71.96,16421.0,8169.0,94.51,11.9
+3512,Kab. Situbondo,Jawa Timur,Kabupaten,2024,6.93,68.19,72.13,17168.0,8580.0,91.91,11.51
+3513,Kab. Probolinggo,Jawa Timur,Kabupaten,2023,6.29,66.18,70.16,18379.0,8067.0,94.58,17.19
+3513,Kab. Probolinggo,Jawa Timur,Kabupaten,2024,6.31,66.34,70.32,19152.0,8479.0,93.78,16.45
+3514,Kab. Pasuruan,Jawa Timur,Kabupaten,2023,7.44,68.89,72.83,15298.0,9381.0,96.95,9.24
+3514,Kab. Pasuruan,Jawa Timur,Kabupaten,2024,7.46,69.07,73.02,15801.0,9685.0,95.97,8.63
+3515,Kab. Sidoarjo,Jawa Timur,Kabupaten,2023,10.78,72.93,76.62,21218.0,14638.0,109.16,5.0
+3515,Kab. Sidoarjo,Jawa Timur,Kabupaten,2024,10.91,73.09,76.78,21755.0,15004.0,106.35,4.53
+3516,Kab. Mojokerto,Jawa Timur,Kabupaten,2023,9.11,71.17,75.44,19275.0,11535.0,101.14,9.8
+3516,Kab. Mojokerto,Jawa Timur,Kabupaten,2024,9.13,71.29,75.7,19885.0,11895.0,97.79,9.37
+3517,Kab. Jombang,Jawa Timur,Kabupaten,2023,8.77,71.15,75.4,17481.0,9371.0,98.97,9.15
+3517,Kab. Jombang,Jawa Timur,Kabupaten,2024,8.78,71.28,75.67,18131.0,9714.0,98.01,8.6
+3518,Kab. Nganjuk,Jawa Timur,Kabupaten,2023,8.24,70.33,74.34,18407.0,12233.0,95.46,10.89
+3518,Kab. Nganjuk,Jawa Timur,Kabupaten,2024,8.25,70.51,74.53,19190.0,12749.0,95.01,10.17
+3519,Kab. Madiun,Jawa Timur,Kabupaten,2023,7.95,70.32,74.33,17089.0,10165.0,96.24,11.04
+3519,Kab. Madiun,Jawa Timur,Kabupaten,2024,8.2,70.51,74.53,17646.0,10491.0,95.85,10.63
+3520,Kab. Magetan,Jawa Timur,Kabupaten,2023,8.67,71.19,75.49,16667.0,12140.0,98.26,9.8
+3520,Kab. Magetan,Jawa Timur,Kabupaten,2024,8.69,71.32,75.76,17214.0,12535.0,95.27,9.32
+3521,Kab. Ngawi,Jawa Timur,Kabupaten,2023,7.78,71.14,75.37,16559.0,10166.0,91.01,14.4
+3521,Kab. Ngawi,Jawa Timur,Kabupaten,2024,7.84,71.26,75.63,17266.0,10595.0,92.76,13.81
+3522,Kab. Bojonegoro,Jawa Timur,Kabupaten,2023,7.45,70.61,74.63,15744.0,9064.0,99.61,12.18
+3522,Kab. Bojonegoro,Jawa Timur,Kabupaten,2024,7.59,70.79,74.82,16358.0,9413.0,95.73,11.69
+3523,Kab. Tuban,Jawa Timur,Kabupaten,2023,7.4,70.4,74.41,17315.0,8208.0,100.68,14.91
+3523,Kab. Tuban,Jawa Timur,Kabupaten,2024,7.53,70.58,74.6,17931.0,8454.0,97.93,14.36
+3524,Kab. Lamongan,Jawa Timur,Kabupaten,2023,8.34,71.15,75.39,17921.0,8888.0,101.79,12.42
+3524,Kab. Lamongan,Jawa Timur,Kabupaten,2024,8.48,71.27,75.66,18505.0,9221.0,97.63,12.16
+3525,Kab. Gresik,Jawa Timur,Kabupaten,2023,10.01,71.2,75.5,21071.0,11004.0,112.47,10.96
+3525,Kab. Gresik,Jawa Timur,Kabupaten,2024,10.03,71.33,75.78,21795.0,11375.0,106.44,10.32
+3526,Kab. Bangkalan,Jawa Timur,Kabupaten,2023,5.99,68.86,72.81,14006.0,7405.0,99.74,19.35
+3526,Kab. Bangkalan,Jawa Timur,Kabupaten,2024,6.01,69.04,72.99,14594.0,7741.0,100.12,18.66
+3527,Kab. Sampang,Jawa Timur,Kabupaten,2023,5.07,66.7,70.67,14300.0,6820.0,97.29,21.76
+3527,Kab. Sampang,Jawa Timur,Kabupaten,2024,5.08,66.88,70.85,14930.0,7135.0,98.15,20.83
+3528,Kab. Pamekasan,Jawa Timur,Kabupaten,2023,7.15,66.37,70.35,13690.0,7008.0,101.07,13.85
+3528,Kab. Pamekasan,Jawa Timur,Kabupaten,2024,7.17,66.54,70.52,14248.0,7329.0,96.19,13.41
+3529,Kab. Sumenep,Jawa Timur,Kabupaten,2023,5.94,70.51,74.53,14872.0,5616.0,103.17,18.7
+3529,Kab. Sumenep,Jawa Timur,Kabupaten,2024,6.1,70.69,74.72,15441.0,5826.0,102.75,17.78
+3571,Kota Kediri,Jawa Timur,Kota,2023,10.69,72.93,76.6,17010.0,12925.0,94.6,7.15
+3571,Kota Kediri,Jawa Timur,Kota,2024,10.92,73.06,76.76,17501.0,13285.0,94.38,6.51
+3572,Kota Blitar,Jawa Timur,Kota,2023,10.78,72.92,76.59,16016.0,13977.0,94.4,7.3
+3572,Kota Blitar,Jawa Timur,Kota,2024,10.82,73.05,76.75,16475.0,14362.0,92.25,6.75
+3573,Kota Malang,Jawa Timur,Kota,2023,10.94,72.36,76.07,21473.0,16844.0,102.75,4.26
+3573,Kota Malang,Jawa Timur,Kota,2024,11.14,72.48,76.19,22200.0,17383.0,98.02,3.91
+3574,Kota Probolinggo,Jawa Timur,Kota,2023,9.56,69.06,73.01,13590.0,12532.0,94.51,6.48
+3574,Kota Probolinggo,Jawa Timur,Kota,2024,9.72,69.24,73.21,14028.0,12910.0,94.93,6.18
+3575,Kota Pasuruan,Jawa Timur,Kota,2023,9.78,70.35,74.36,15083.0,13610.0,96.08,6.6
+3575,Kota Pasuruan,Jawa Timur,Kota,2024,9.94,70.54,74.56,15536.0,13991.0,97.09,6.32
+3576,Kota Mojokerto,Jawa Timur,Kota,2023,11.05,72.32,76.04,19161.0,13874.0,100.63,5.77
+3576,Kota Mojokerto,Jawa Timur,Kota,2024,11.38,72.45,76.17,19704.0,14263.0,96.58,5.57
+3577,Kota Madiun,Jawa Timur,Kota,2023,11.82,71.29,75.69,23806.0,16400.0,99.62,4.74
+3577,Kota Madiun,Jawa Timur,Kota,2024,12.11,71.43,75.98,24349.0,16769.0,94.27,4.38
+3578,Kota Surabaya,Jawa Timur,Kota,2023,10.7,73.01,76.67,23277.0,17116.0,105.08,4.65
+3578,Kota Surabaya,Jawa Timur,Kota,2024,10.89,73.19,76.86,24142.0,17718.0,102.54,3.96
+3579,Kota Batu,Jawa Timur,Kota,2023,9.85,71.19,75.49,19912.0,9970.0,101.48,3.31
+3579,Kota Batu,Jawa Timur,Kota,2024,9.87,71.32,75.76,20849.0,10462.0,99.88,3.06
+3601,Kab. Pandeglang,Banten,Kabupaten,2023,7.15,63.7,67.56,14675.0,6444.0,85.18,9.27
+3601,Kab. Pandeglang,Banten,Kabupaten,2024,7.16,63.9,67.78,15334.0,6667.0,85.68,9.18
+3602,Kab. Lebak,Banten,Kabupaten,2023,6.6,66.19,70.17,13711.0,4429.0,87.48,8.68
+3602,Kab. Lebak,Banten,Kabupaten,2024,6.61,66.4,70.38,14454.0,4682.0,86.7,8.44
+3603,Kab. Tangerang,Banten,Kabupaten,2023,8.93,68.73,72.67,18483.0,10886.0,99.73,6.93
+3603,Kab. Tangerang,Banten,Kabupaten,2024,9.06,68.95,72.9,19192.0,11344.0,97.83,6.55
+3604,Kab. Serang,Banten,Kabupaten,2023,7.79,63.72,67.58,16055.0,10143.0,94.98,4.85
+3604,Kab. Serang,Banten,Kabupaten,2024,7.88,64.0,67.89,16767.0,10492.0,93.2,4.51
+3671,Kota Tangerang,Banten,Kota,2023,10.91,70.28,74.29,20270.0,14954.0,101.65,5.89
+3671,Kota Tangerang,Banten,Kota,2024,11.14,70.5,74.52,20654.0,15175.0,98.61,5.43
+3672,Kota Cilegon,Banten,Kota,2023,10.38,65.46,69.42,21799.0,8107.0,96.15,3.98
+3672,Kota Cilegon,Banten,Kota,2024,10.39,65.72,69.7,22681.0,8467.0,93.43,3.75
+3673,Kota Serang,Banten,Kota,2023,8.91,67.05,71.02,20106.0,13138.0,99.45,6.2
+3673,Kota Serang,Banten,Kota,2024,8.93,67.33,71.29,20746.0,13653.0,95.04,5.65
+3674,Kota Tangerang Selatan,Banten,Kota,2023,11.85,71.07,75.24,22860.0,15249.0,102.88,2.57
+3674,Kota Tangerang Selatan,Banten,Kota,2024,11.86,71.21,75.52,23754.0,15987.0,104.33,2.36

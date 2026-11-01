@@ -1,0 +1,120 @@
+kode_kabkota,nama_kabkota,provinsi,jenis
+3101,Kab. Kepulauan Seribu,DKI Jakarta,Kabupaten
+3171,Kota Jakarta Selatan,DKI Jakarta,Kota
+3172,Kota Jakarta Timur,DKI Jakarta,Kota
+3173,Kota Jakarta Pusat,DKI Jakarta,Kota
+3174,Kota Jakarta Barat,DKI Jakarta,Kota
+3175,Kota Jakarta Utara,DKI Jakarta,Kota
+3201,Kab. Bogor,Jawa Barat,Kabupaten
+3202,Kab. Sukabumi,Jawa Barat,Kabupaten
+3203,Kab. Cianjur,Jawa Barat,Kabupaten
+3204,Kab. Bandung,Jawa Barat,Kabupaten
+3205,Kab. Garut,Jawa Barat,Kabupaten
+3206,Kab. Tasikmalaya,Jawa Barat,Kabupaten
+3207,Kab. Ciamis,Jawa Barat,Kabupaten
+3208,Kab. Kuningan,Jawa Barat,Kabupaten
+3209,Kab. Cirebon,Jawa Barat,Kabupaten
+3210,Kab. Majalengka,Jawa Barat,Kabupaten
+3211,Kab. Sumedang,Jawa Barat,Kabupaten
+3212,Kab. Indramayu,Jawa Barat,Kabupaten
+3213,Kab. Subang,Jawa Barat,Kabupaten
+3214,Kab. Purwakarta,Jawa Barat,Kabupaten
+3215,Kab. Karawang,Jawa Barat,Kabupaten
+3216,Kab. Bekasi,Jawa Barat,Kabupaten
+3217,Kab. Bandung Barat,Jawa Barat,Kabupaten
+3218,Kab. Pangandaran,Jawa Barat,Kabupaten
+3271,Kota Bogor,Jawa Barat,Kota
+3272,Kota Sukabumi,Jawa Barat,Kota
+3273,Kota Bandung,Jawa Barat,Kota
+3274,Kota Cirebon,Jawa Barat,Kota
+3275,Kota Bekasi,Jawa Barat,Kota
+3276,Kota Depok,Jawa Barat,Kota
+3277,Kota Cimahi,Jawa Barat,Kota
+3278,Kota Tasikmalaya,Jawa Barat,Kota
+3279,Kota Banjar,Jawa Barat,Kota
+3301,Kab. Cilacap,Jawa Tengah,Kabupaten
+3302,Kab. Banyumas,Jawa Tengah,Kabupaten
+3303,Kab. Purbalingga,Jawa Tengah,Kabupaten
+3304,Kab. Banjarnegara,Jawa Tengah,Kabupaten
+3305,Kab. Kebumen,Jawa Tengah,Kabupaten
+3306,Kab. Purworejo,Jawa Tengah,Kabupaten
+3307,Kab. Wonosobo,Jawa Tengah,Kabupaten
+3308,Kab. Magelang,Jawa Tengah,Kabupaten
+3309,Kab. Boyolali,Jawa Tengah,Kabupaten
+3310,Kab. Klaten,Jawa Tengah,Kabupaten
+3311,Kab. Sukoharjo,Jawa Tengah,Kabupaten
+3312,Kab. Wonogiri,Jawa Tengah,Kabupaten
+3313,Kab. Karanganyar,Jawa Tengah,Kabupaten
+3314,Kab. Sragen,Jawa Tengah,Kabupaten
+3315,Kab. Grobogan,Jawa Tengah,Kabupaten
+3316,Kab. Blora,Jawa Tengah,Kabupaten
+3317,Kab. Rembang,Jawa Tengah,Kabupaten
+3318,Kab. Pati,Jawa Tengah,Kabupaten
+3319,Kab. Kudus,Jawa Tengah,Kabupaten
+3320,Kab. Jepara,Jawa Tengah,Kabupaten
+3321,Kab. Demak,Jawa Tengah,Kabupaten
+3322,Kab. Semarang,Jawa Tengah,Kabupaten
+3323,Kab. Temanggung,Jawa Tengah,Kabupaten
+3324,Kab. Kendal,Jawa Tengah,Kabupaten
+3325,Kab. Batang,Jawa Tengah,Kabupaten
+3326,Kab. Pekalongan,Jawa Tengah,Kabupaten
+3327,Kab. Pemalang,Jawa Tengah,Kabupaten
+3328,Kab. Tegal,Jawa Tengah,Kabupaten
+3329,Kab. Brebes,Jawa Tengah,Kabupaten
+3371,Kota Magelang,Jawa Tengah,Kota
+3372,Kota Surakarta,Jawa Tengah,Kota
+3373,Kota Salatiga,Jawa Tengah,Kota
+3374,Kota Semarang,Jawa Tengah,Kota
+3375,Kota Pekalongan,Jawa Tengah,Kota
+3376,Kota Tegal,Jawa Tengah,Kota
+3401,Kab. Kulon Progo,DI Yogyakarta,Kabupaten
+3402,Kab. Bantul,DI Yogyakarta,Kabupaten
+3403,Kab. Gunungkidul,DI Yogyakarta,Kabupaten
+3404,Kab. Sleman,DI Yogyakarta,Kabupaten
+3471,Kota Yogyakarta,DI Yogyakarta,Kota
+3501,Kab. Pacitan,Jawa Timur,Kabupaten
+3502,Kab. Ponorogo,Jawa Timur,Kabupaten
+3503,Kab. Trenggalek,Jawa Timur,Kabupaten
+3504,Kab. Tulungagung,Jawa Timur,Kabupaten
+3505,Kab. Blitar,Jawa Timur,Kabupaten
+3506,Kab. Kediri,Jawa Timur,Kabupaten
+3507,Kab. Malang,Jawa Timur,Kabupaten
+3508,Kab. Lumajang,Jawa Timur,Kabupaten
+3509,Kab. Jember,Jawa Timur,Kabupaten
+3510,Kab. Banyuwangi,Jawa Timur,Kabupaten
+3511,Kab. Bondowoso,Jawa Timur,Kabupaten
+3512,Kab. Situbondo,Jawa Timur,Kabupaten
+3513,Kab. Probolinggo,Jawa Timur,Kabupaten
+3514,Kab. Pasuruan,Jawa Timur,Kabupaten
+3515,Kab. Sidoarjo,Jawa Timur,Kabupaten
+3516,Kab. Mojokerto,Jawa Timur,Kabupaten
+3517,Kab. Jombang,Jawa Timur,Kabupaten
+3518,Kab. Nganjuk,Jawa Timur,Kabupaten
+3519,Kab. Madiun,Jawa Timur,Kabupaten
+3520,Kab. Magetan,Jawa Timur,Kabupaten
+3521,Kab. Ngawi,Jawa Timur,Kabupaten
+3522,Kab. Bojonegoro,Jawa Timur,Kabupaten
+3523,Kab. Tuban,Jawa Timur,Kabupaten
+3524,Kab. Lamongan,Jawa Timur,Kabupaten
+3525,Kab. Gresik,Jawa Timur,Kabupaten
+3526,Kab. Bangkalan,Jawa Timur,Kabupaten
+3527,Kab. Sampang,Jawa Timur,Kabupaten
+3528,Kab. Pamekasan,Jawa Timur,Kabupaten
+3529,Kab. Sumenep,Jawa Timur,Kabupaten
+3571,Kota Kediri,Jawa Timur,Kota
+3572,Kota Blitar,Jawa Timur,Kota
+3573,Kota Malang,Jawa Timur,Kota
+3574,Kota Probolinggo,Jawa Timur,Kota
+3575,Kota Pasuruan,Jawa Timur,Kota
+3576,Kota Mojokerto,Jawa Timur,Kota
+3577,Kota Madiun,Jawa Timur,Kota
+3578,Kota Surabaya,Jawa Timur,Kota
+3579,Kota Batu,Jawa Timur,Kota
+3601,Kab. Pandeglang,Banten,Kabupaten
+3602,Kab. Lebak,Banten,Kabupaten
+3603,Kab. Tangerang,Banten,Kabupaten
+3604,Kab. Serang,Banten,Kabupaten
+3671,Kota Tangerang,Banten,Kota
+3672,Kota Cilegon,Banten,Kota
+3673,Kota Serang,Banten,Kota
+3674,Kota Tangerang Selatan,Banten,Kota

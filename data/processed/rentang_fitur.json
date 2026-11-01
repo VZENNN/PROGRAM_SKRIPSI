@@ -1,0 +1,59 @@
+{
+  "fitur": [
+    "rls",
+    "ahh_l",
+    "ahh_p",
+    "ppk_l",
+    "ppk_p",
+    "ikk"
+  ],
+  "target": "p0",
+  "tahun_uji": [
+    2023,
+    2024
+  ],
+  "rentang": {
+    "rls": {
+      "min": 3.49,
+      "max": 11.89,
+      "p01": 5.0669,
+      "p99": 11.6631,
+      "label": "Rata-rata Lama Sekolah (tahun)"
+    },
+    "ahh_l": {
+      "min": 61.03,
+      "max": 76.09,
+      "p01": 62.5138,
+      "p99": 75.6755,
+      "label": "Angka Harapan Hidup Laki-laki (tahun)"
+    },
+    "ahh_p": {
+      "min": 64.68,
+      "max": 79.83,
+      "p01": 66.3438,
+      "p99": 79.43310000000001,
+      "label": "Angka Harapan Hidup Perempuan (tahun)"
+    },
+    "ppk_l": {
+      "min": 8787.2,
+      "max": 28077.0,
+      "p01": 10165.196249999999,
+      "p99": 25974.140099999997,
+      "label": "Pengeluaran per Kapita Laki-laki (ribu Rp/tahun)"
+    },
+    "ppk_p": {
+      "min": 3398.3,
+      "max": 23626.0,
+      "p01": 3925.39,
+      "p99": 19727.719999999994,
+      "label": "Pengeluaran per Kapita Perempuan (ribu Rp/tahun)"
+    },
+    "ikk": {
+      "min": 74.45,
+      "max": 133.29,
+      "p01": 80.5416,
+      "p99": 122.48880000000001,
+      "label": "Indeks Kemahalan Konstruksi"
+    }
+  }
+}

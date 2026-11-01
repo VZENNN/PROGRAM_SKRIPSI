@@ -1,0 +1,25 @@
+# Log training otomatis CatBoost
+catboost_info/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Lingkungan virtual
+.venv/
+venv/
+
+# Arsip unduhan Google Drive (isinya sudah diekstrak)
+*.zip
+
+# File sementara & sistem
+*.tmp
+.DS_Store
+Thumbs.db
+
+CLAUDE.md
+.docs/
+docs/

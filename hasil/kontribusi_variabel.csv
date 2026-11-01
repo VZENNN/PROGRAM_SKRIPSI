@@ -1,0 +1,25 @@
+model,variabel,feature_importance,mean_abs_shap,label
+gabungan,rls,34.62838046058307,1.5172872252693554,Rata-rata Lama Sekolah
+gabungan,ahh_l,10.7487019761719,0.2622198339739234,AHH Laki-laki
+gabungan,ahh_p,11.448498596584804,0.35744664802158005,AHH Perempuan
+gabungan,ppk_l,14.537569468957432,0.8141056048208528,Pengeluaran per Kapita Laki-laki
+gabungan,ppk_p,18.41919924333467,0.5781758877120793,Pengeluaran per Kapita Perempuan
+gabungan,ikk,10.217650254368122,0.3397182134978628,Indeks Kemahalan Konstruksi
+kabupaten,rls,30.85321277942983,1.2714905368503138,Rata-rata Lama Sekolah
+kabupaten,ahh_l,13.242755605162134,0.3125927771327897,AHH Laki-laki
+kabupaten,ahh_p,12.771378072561069,0.3665490956444906,AHH Perempuan
+kabupaten,ppk_l,13.247886316197215,0.34756281791185634,Pengeluaran per Kapita Laki-laki
+kabupaten,ppk_p,17.887416623167805,0.5191794509912048,Pengeluaran per Kapita Perempuan
+kabupaten,ikk,11.997350603481957,0.4013884001989107,Indeks Kemahalan Konstruksi
+kota,rls,13.255552641404325,0.4085103014794231,Rata-rata Lama Sekolah
+kota,ahh_l,8.493464674366109,0.17784998420690395,AHH Laki-laki
+kota,ahh_p,8.683315541700914,0.09981974897774855,AHH Perempuan
+kota,ppk_l,38.74820734190907,0.9292904465398766,Pengeluaran per Kapita Laki-laki
+kota,ppk_p,24.80597693656453,0.26618357389136627,Pengeluaran per Kapita Perempuan
+kota,ikk,6.013482864055045,0.18996071895429645,Indeks Kemahalan Konstruksi
+per_kabkota (rata-rata 119 model),rls,14.935546226473685,0.1152926356396619,Rata-rata Lama Sekolah
+per_kabkota (rata-rata 119 model),ahh_l,24.400478092387562,0.16598169786843658,AHH Laki-laki
+per_kabkota (rata-rata 119 model),ahh_p,15.342567962629898,0.08698461279166227,AHH Perempuan
+per_kabkota (rata-rata 119 model),ppk_l,14.50091593884907,0.23206722736187188,Pengeluaran per Kapita Laki-laki
+per_kabkota (rata-rata 119 model),ppk_p,15.021469795961627,0.2186483009475203,Pengeluaran per Kapita Perempuan
+per_kabkota (rata-rata 119 model),ikk,15.799021983698161,0.16295191307975954,Indeks Kemahalan Konstruksi
